@@ -13,9 +13,9 @@ To implement it on your email, you can follow the guide below related to your em
 ![Screenshot_%T_%d-1](https://github.com/Legrand-WEB-Services/email-template/assets/49822437/5126d2b2-62aa-4ff8-9eb3-b415524b2e99)
 4. Go to `Signature`, click on the three dots and then select the html tag symbol (see below)
 ![Screenshot_%T_%d-2](https://github.com/Legrand-WEB-Services/email-template/assets/49822437/1cb92d3c-539d-4a86-ba6d-b22647237970)
-![Screenshot_%T_%d-3](https://github.com/Legrand-WEB-Services/email-template/assets/49822437/61b76242-88b7-4998-8cc5-af372ca90748)
+![Screenshot_%T_%d-3](https://github.com/Legrand-WEB-Services/email-template/assets/49822437/4c815815-b4ad-454b-91a0-0905cb738511)
 ![Screenshot_%T_%d-4](https://github.com/Legrand-WEB-Services/email-template/assets/49822437/c9e8661e-ffba-4813-90f2-241ec52b6cf0)
-5. Then copy and paste the code below (you can find the same code in the `index.html` in this repository):
+6. Then copy and paste the code below (you can find the same code in the `index.html` in this repository):
 ```
 <!DOCTYPE html>
 <html lang="en">
